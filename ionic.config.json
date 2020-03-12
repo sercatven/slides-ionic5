@@ -1,0 +1,7 @@
+{
+  "name": "testSlides",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
